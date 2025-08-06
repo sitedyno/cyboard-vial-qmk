@@ -258,7 +258,7 @@
     "FORCE_NKRO": {"info_key": "usb.force_nkro", "value_type": "flag", "deprecated": true, "replace_with": "`host.default.nkro` in info.json"},
 
     // Items we want flagged in lint
-    "VIAL_KEYBOARD_UID": {"info_key": "_invalid.vial_uid", "invalid": true},
-    "VIAL_UNLOCK_COMBO_COLS": {"info_key": "_invalid.vial_unlock_cols", "invalid": true},
-    "VIAL_UNLOCK_COMBO_ROWS": {"info_key": "_invalid.vial_unlock_rows", "invalid": true}
+    //"VIAL_KEYBOARD_UID": {"info_key": "_invalid.vial_uid", "invalid": true},
+    //"VIAL_UNLOCK_COMBO_COLS": {"info_key": "_invalid.vial_unlock_cols", "invalid": true},
+    //"VIAL_UNLOCK_COMBO_ROWS": {"info_key": "_invalid.vial_unlock_rows", "invalid": true}
 }
